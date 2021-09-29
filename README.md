@@ -24,12 +24,14 @@ Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
    <algorithm name>/
    ├── <implementation file> (With commented sample input/output. In Python Lnaguage only.)
    ```
+   I have added a sample file for your reference .
 3.If you are adding a mini project in python , then go to Projects_in_Python and follow the below steps:
 ```bash
   <project name>/
   ├── <project output> (Add the screenshot of the output.)
   ├── <project code files> (can add as many required code files.)
   ```
+  I have added a sample file for your reference.
 4. On Making a Pull Request make sure that you write about your valuable contribution(a short intro or note about it). 
 
 
