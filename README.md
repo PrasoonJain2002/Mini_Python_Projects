@@ -8,24 +8,28 @@ https://hacktoberfest.digitalocean.com/
 
 Hacktoberfest is a month (takes place from October 1-October 31 every year) long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. https://hacktoberfest.digitalocean.com/
 
-Hacktoberfest is open to everyone. To get the Hacktoberfest 2021 T-Shirt you need to make four Pull Requests to those projects/repositories which have hacktoberfest label between October 1,2021 to October 31,2021 in any time zone . Before that make sure you have visited the official website and registered [here](https://hacktoberfest.digitalocean.com/)
+Hacktoberfest is open to everyone. To get the Hacktoberfest 2021 T-Shirt you need to make four Pull Requests to those projects/repositories which have hacktoberfest label, between October 1,2021 to October 31,2021 in any time zone . Before that make sure you have visited the official website and registered [here](https://hacktoberfest.digitalocean.com/)
 
 
 ## How to contribute??
 
-Submit your pull request here for Hacktoberfest-2021 . You can submit your Python mini projects as well as any solved programming questions in Python language only.
+Submit your pull request here for Hacktoberfest-2021 . You can submit your Python mini projects or any solved programming questions in Python language only.
 Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
 
 ## Rules for Contributing to this Repository
 
-1. Make sure to go to the right directory .
+1. Make sure to go to the right folder .
 2. If you are adding a program in python ,then go to Programming_in_Python and follow the below steps:
+```bash
    <algorithm name>/
    ├── <implementation file> (With commented sample input/output. In Python Lnaguage only.)
+   ```
 3.If you are adding a mini project in python , then go to Projects_in_Python and follow the below steps:
+```bash
   <project name>/
   ├── <project output> (Add the screenshot of the output.)
   ├── <project code files> (can add as many required code files.)
+  ```
 4. On Making a Pull Request make sure that you write about your valuable contribution(a short intro or note about it). 
 
 
@@ -40,7 +44,7 @@ Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
 * If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 * A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the    'hacktoberfest-accepted' label.
 
-# So, why Wait , Let's Start😁  
+# So, why Wait?? Let's Start😁  
 
 ## How to Begin your Contribution
 
@@ -70,7 +74,7 @@ Click on "Start Hacking" and add your GitHub account.
 
 Use the `git clone`  command along with the URL that points to your fork of the repository.
 Example:
-git clone https://github.com/<Your_Username>/Awesome-Python-Scripts
+git clone https://github.com/<Your_Username>/Mini_Python_Projects
 `git clone https://github.com/your-username/Hacktoberfest.git`
 
 
